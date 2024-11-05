@@ -138,6 +138,26 @@ This allow the users to drill down and filter data:
   - Customize tooltips to show extra data when hovering over visual elements (e.g., show percentage contribution or customer insights on region breakdowns).
 
 ### Data Visualization
+![Q8](https://github.com/user-attachments/assets/1e447503-66a4-4962-aeab-c11fb4ae6780)![Q6](https://github.com/user-attachments/assets/0256ae9a-4ba0-41ab-9b15-4b39f2a41d78)
+![Q5](https://github.com/user-attachments/assets/47cc659e-d757-44c9-9572-b2680e768994)
+![Q4](https://github.com/user-attachments/assets/04d4d880-69ac-450b-86da-c46a39eeb4f1)
+![Q3](https://github.com/user-attachments/assets/b81d2239-6bbf-42ba-99f9-cdd784971957)
+![Q, 2](https://github.com/user-attachments/assets/89d5b479-a297-4ae4-925a-c2a74731f480)
+![CUST DATA SUMM 2](https://github.com/user-attachments/assets/92c10681-9b81-4796-895e-ccf733568081)
+![CUST DATA SUMM 1](https://github.com/user-attachments/assets/12e2b8c2-4873-462c-87ac-b54aef1345c5)
+![WHOLE CODE O3](https://github.com/user-attachments/assets/a3666083-9663-4a44-bda1-a80dfb217c26)
+![WHOLE CODE O2](https://github.com/user-attachments/assets/1503220e-effd-4da3-ae8c-ee68a343ad2a)
+![WHOLE CODE 01](https://github.com/user-attachments/assets/14959c71-e760-4c6c-8ade-9cb09f51e899)
+![SALES DATA SUM 1](https://github.com/user-attachments/assets/5b14520a-30fc-44d7-9905-1028686a8062)
+![QUERY A](https://github.com/user-attachments/assets/2d80214a-fcaf-4188-823d-f010a34bcc55)
+![Q10](https://github.com/user-attachments/assets/67896aa3-d5e2-4d95-bdf0-1e7b32901ffe)
+![Q9](https://github.com/user-attachments/assets/7a1e2ef8-8f3d-4c67-aded-5ef32c527587)
+
+![Q7](https://github.com/user-attachments/assets/d039d842-4c3e-48dc-b5ae-e12048f8fd67)
+
+The Power BI screenshots
+![IWEKA PBI PAGE 1](https://github.com/user-attachments/assets/06aa616e-764f-40b8-9886-86cc0a2019ac)
+<img width="578" alt="IWEKA PBI PAGE 2" src="https://github.com/user-attachments/assets/7d4459c6-55ea-4268-acaf-c13d99ee3686">
 
 
 ### 7. Publishing and Sharing
