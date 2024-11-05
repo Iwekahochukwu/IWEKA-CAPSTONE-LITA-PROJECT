@@ -16,7 +16,6 @@
 8. [Publishing and Sharing](#publishing-and-sharing)
 9. [Additional Notes](#additional-notes)
 
----
 
 ### 1. Overview
 ```
