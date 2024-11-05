@@ -99,7 +99,6 @@ Create the following visualizations in Power BI for a well-rounded sales dashboa
    - Drag Transaction Date to the X-axis and SalesAmount to the Y-axis, and format to display month-over-month performance.
 
 
-
 #### Regional Breakdown
 1. *Regional Sales Map*:
    - Use a Map visualization to display sales by region geographically.
