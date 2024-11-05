@@ -1,4 +1,4 @@
-# IWEKA-CAPSTONE-LITA-PROJECT
+## IWEKA-CAPSTONE-LITA-PROJECT
 ### SALES DATA ANALYSIS PROJECT 
 
 ## Table of Contents
@@ -7,13 +7,9 @@
 3. [Requirements/Tools_Used](#Requirements/Tools_Used)
 4. [Data cleaning and Preparation](#Data-cleaning-and-reparation)
 5. [Experimental Data Analysis](#Experimental-Data-Analysis)
-6. [Data Analysis](#Data-Analysis) 
+6. [Data Analysis](#Data-Analysis)
+7. [Data Visualizations](#Data-Visualizations)
 
-   - [Sales Overview](#sales-overview)
-   - [Top-Performing Products](#top-performing-products)
-   - [Regional Breakdown](#regional-breakdown)
-7. [Interactivity Features](#interactivity-features)
-8. [Publishing and Sharing](#publishing-and-sharing)
 9. [Additional Notes](#additional-notes)
 
 
@@ -140,6 +136,9 @@ This allow the users to drill down and filter data:
   - Enable drill-through functionality to allow users to click on specific data points (e.g., region or product) and view details.
 - *Tooltips*:
   - Customize tooltips to show extra data when hovering over visual elements (e.g., show percentage contribution or customer insights on region breakdowns).
+
+### Data Visualization
+
 
 ### 7. Publishing and Sharing
 
