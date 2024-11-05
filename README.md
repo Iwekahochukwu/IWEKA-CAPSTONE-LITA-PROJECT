@@ -98,22 +98,7 @@ Create the following visualizations in Power BI for a well-rounded sales dashboa
    - Add a Line Chart to show monthly sales trends over time.
    - Drag Transaction Date to the X-axis and SalesAmount to the Y-axis, and format to display month-over-month performance.
 
-3. *Sales by Category Bar Chart*:
-   - Use a Stacked Bar Chart to display sales by product category.
-   - Drag Product Category to the axis and SalesAmount to values to compare sales across different categories.
 
-#### Top-Performing Products
-1. *Top Products Table*:
-   - Insert a Table visualization to list the top 10 products by total sales.
-   - Use SQL or Excel insights to filter for top products, or use a DAX formula to create a ranking column, such as:
-     DAX
-     Rank = RANKX(ALL(SalesData), SUM(SalesData[SalesAmount]), , DESC)
-     
-   - Display fields such as Product Name, Total Sales, and Rank.
-
-2. *Product Sales Pie Chart*:
-   - Add a Pie Chart to show sales distribution by top-performing products.
-   - Drag Product Name and Total Sales to the chart fields and filter to show only the top 5 or 10 products.
 
 #### Regional Breakdown
 1. *Regional Sales Map*:
