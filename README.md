@@ -11,7 +11,6 @@
 7. [Data Visualizations](#Data-Visualizations)
 
 
-
 ### 1. Overview
 ---
 This Data Analysis project aims to gererate insight into the sales performance of a Sales transaction from different categories. The goal is to deliver an interactive and visually appealing dashboard that helps stakeholders easily understand sales performance across various dimensions, and also to Provide Insight into the Revenune, and different other summaries contained within the data. 
