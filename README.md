@@ -10,7 +10,6 @@
 6. [Data Analysis](#Data-Analysis)
 7. [Data Visualizations](#Data-Visualizations)
 
-9. [Additional Notes](#additional-notes)
 
 
 ### 1. Overview
@@ -138,6 +137,8 @@ This allow the users to drill down and filter data:
   - Customize tooltips to show extra data when hovering over visual elements (e.g., show percentage contribution or customer insights on region breakdowns).
 
 ### Data Visualization
+---
+
 ![Q8](https://github.com/user-attachments/assets/1e447503-66a4-4962-aeab-c11fb4ae6780)![Q6](https://github.com/user-attachments/assets/0256ae9a-4ba0-41ab-9b15-4b39f2a41d78)
 ![Q5](https://github.com/user-attachments/assets/47cc659e-d757-44c9-9572-b2680e768994)
 ![Q4](https://github.com/user-attachments/assets/04d4d880-69ac-450b-86da-c46a39eeb4f1)
@@ -155,29 +156,15 @@ This allow the users to drill down and filter data:
 
 ![Q7](https://github.com/user-attachments/assets/d039d842-4c3e-48dc-b5ae-e12048f8fd67)
 
-The Power BI screenshots
+### The Power BI screenshots
 ![IWEKA PBI PAGE 1](https://github.com/user-attachments/assets/06aa616e-764f-40b8-9886-86cc0a2019ac)
 <img width="578" alt="IWEKA PBI PAGE 2" src="https://github.com/user-attachments/assets/7d4459c6-55ea-4268-acaf-c13d99ee3686">
 
+### The Excel Screenshots and Graphs
 
-### 7. Publishing and Sharing
+![EXCEL SCREENSHOT SALESDATA ](https://github.com/user-attachments/assets/eb2f643c-5169-4324-8549-92575f0ffefe)
+![EXCEL SCREENSHOT CUSTOMER DATA](https://github.com/user-attachments/assets/f6a6ee04-e07b-4ecd-bff4-2e49a6a14804)
+![EXCEL GRAPH](https://github.com/user-attachments/assets/13c210d8-8230-4165-9c43-f5f576d0bb30)
+![EXCEL CUSTOMER DATA 2](https://github.com/user-attachments/assets/e3c4a135-b0bd-4a13-84d6-448d4f903c70)
 
-1. *Publish to Power BI Service*:
-   - Save and publish the dashboard to the Power BI Service by selecting Publish in Power BI Desktop.
-   - Share the published dashboard link with stakeholders or embed it on internal platforms.
-
-2. *Refresh Schedule*:
-   - If the data updates regularly, set up a scheduled refresh in the Power BI Service to ensure users see the latest data.
-
-3. *Access Permissions*:
-   - Adjust access permissions to allow view-only or edit access based on user needs.
-
-### 8. Additional Notes
-
-- *Dashboard Customization*: Feel free to customize colors, themes, and layouts for visual appeal.
-- *DAX Measures*: Use DAX to create additional calculated columns and measures if new insights are required.
-- *Troubleshooting*: For any errors or performance issues, review Power BI logs or check data connections.
-
----
-
-By following this documentation, users can create, publish, and share an interactive Power BI dashboard that visualizes sales performance insights effectively. For further assistance, please raise an issue in this repository.
+### Thank you for reading and Viewing 
