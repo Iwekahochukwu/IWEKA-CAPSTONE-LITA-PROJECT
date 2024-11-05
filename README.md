@@ -79,7 +79,6 @@ GROUP BY Customer_Id
 ORDER BY TotalPurchaseAmount DESC;
 ```
 
-
    - *Relationships*: Establish relationships between tables based on common fields (e.g., ProductID, CustomerID, Region) if they are in separate tables.
    - *Data Transformation*: Use Power Query to clean, format, or aggregate data as needed. For example, you might filter data to include only the current year or group data by categories.
 
