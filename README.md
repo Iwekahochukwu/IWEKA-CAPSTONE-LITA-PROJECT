@@ -5,18 +5,21 @@
 1. [Overview](#overview)
 2. [Data Sources](#Data-Sources)
 3. [Requirements/Tools_Used](#Requirements/Tools_Used)
+4. [Data cleaning and Preparation](#Data-cleaning-and-reparation)
+5. [Experimental Data Analysis](#Experimental-Data-Analysis)
+6. [Data Analysis](#Data-Analysis) 
 
    - [Sales Overview](#sales-overview)
    - [Top-Performing Products](#top-performing-products)
    - [Regional Breakdown](#regional-breakdown)
-6. [Interactivity Features](#interactivity-features)
-7. [Publishing and Sharing](#publishing-and-sharing)
-8. [Additional Notes](#additional-notes)
+7. [Interactivity Features](#interactivity-features)
+8. [Publishing and Sharing](#publishing-and-sharing)
+9. [Additional Notes](#additional-notes)
 
 ---
 
 ### 1. Overview
-
+```
 This Data Analysis project aims to gererate insight into the sales performance of a Sales transaction from different categories. The goal is to deliver an interactive and visually appealing dashboard that helps stakeholders easily understand sales performance across various dimensions, and also to Provide Insight into the Revenune, and different other summaries contained within the data. 
 
 ### 2. Data Source
@@ -40,7 +43,45 @@ The Primary sourcs of Data here is Salesdata.csv and this is an open source that
   
 -Github for Portfolio Building 
 
-. *Data Model Setup*:
+. *Data cleaning and Preparation*
+At the initail phase of the Data cleaning and preparations , certains operations were performed
+Data Loading and Inspection 
+Handling Missing Variables 
+Handling Balnk Spaces in the proces of loading the salesdata.csv into the SQL 
+Data Cleaning and categorization 
+
+
+### Experimental Data Analysis
+EDA involves the exploring of the Data to answer some questions about the Data such as;
+
+-What is the total sales for each product category.
+-Whats the sales transactions for each region. 
+-How to find the highest-selling product by total sales value.
+-How to Calculate total revenue per product.
+-How to calculate the monthly sales totals for the current year. 
+-How to find top 5 customers by total purchase amount.
+-How to calculate the percentage of total sales by each region
+-How to identify products with no sales in the last quarter.
+
+
+### Data Analysis 
+This is where we include some basic line of code or queries;
+
+```SQL
+SELECT * FROM SalesDataCsv;
+select Product, sum(Total_sales) as Total_sales
+from [dbo].[SalesDataCsv]
+Group by product
+```
+```SQL
+SELECT TOP 5 Customer_Id,
+SUM(Total_sales) AS TotalPurchaseAmount
+FROM [dbo].[SalesDataCsv]
+GROUP BY Customer_Id
+ORDER BY TotalPurchaseAmount DESC;
+```
+
+
    - *Relationships*: Establish relationships between tables based on common fields (e.g., ProductID, CustomerID, Region) if they are in separate tables.
    - *Data Transformation*: Use Power Query to clean, format, or aggregate data as needed. For example, you might filter data to include only the current year or group data by categories.
 
@@ -88,7 +129,7 @@ Create the following visualizations in Power BI for a well-rounded sales dashboa
 
 ### 6. Interactivity Features
 
-Add interactivity to the dashboard to allow users to drill down and filter data:
+This allow the users to drill down and filter data:
 - *Slicers*:
   - Add slicers for fields like Product Category, Region, and Time Period to allow users to filter views.
 - *Drill-Throughs*:
