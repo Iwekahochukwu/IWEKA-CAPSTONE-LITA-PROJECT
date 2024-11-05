@@ -18,10 +18,11 @@
 
 
 ### 1. Overview
-```
+---
 This Data Analysis project aims to gererate insight into the sales performance of a Sales transaction from different categories. The goal is to deliver an interactive and visually appealing dashboard that helps stakeholders easily understand sales performance across various dimensions, and also to Provide Insight into the Revenune, and different other summaries contained within the data. 
 
 ### 2. Data Source
+---
 The Primary sourcs of Data here is Salesdata.csv and this is an open source that can was given to work with by the Incubators hub, tagged capstone project Dataset.
 
 - Built a Power BI dashboard to visualize sales data, focusing on metrics like total sales, product performance, and regional breakdowns.
@@ -29,6 +30,7 @@ The Primary sourcs of Data here is Salesdata.csv and this is an open source that
 - Enable users to interact with the dashboard and drill down into specific data points.
 
 ### 3. Requirements/ Tools Used 
+---
 - Microsoft Excel
   1.  For Data cleanig (www.microsoft.com)
      -*Excel File: Use the *Get Data option to connect to the Excel file. Select the relevant tables or sheets that contain summarized sales data, such as total sales, regional breakdowns, and monthly sales
@@ -42,7 +44,8 @@ The Primary sourcs of Data here is Salesdata.csv and this is an open source that
   
 -Github for Portfolio Building 
 
-. *Data cleaning and Preparation*
+### *Data cleaning and Preparation*
+---
 At the initail phase of the Data cleaning and preparations , certains operations were performed
 Data Loading and Inspection 
 Handling Missing Variables 
@@ -51,6 +54,7 @@ Data Cleaning and categorization
 
 
 ### Experimental Data Analysis
+---
 EDA involves the exploring of the Data to answer some questions about the Data such as;
 
 -What is the total sales for each product category.
@@ -64,6 +68,7 @@ EDA involves the exploring of the Data to answer some questions about the Data s
 
 
 ### Data Analysis 
+---
 This is where we include some basic line of code or queries;
 
 ```SQL
