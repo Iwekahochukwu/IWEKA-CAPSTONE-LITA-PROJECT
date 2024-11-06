@@ -123,17 +123,17 @@ This allow the users to drill down and filter data:
 ---
 #### Sales Data Queries
 
-![Q8](https://github.com/user-attachments/assets/1e447503-66a4-4962-aeab-c11fb4ae6780)![Q6](https://github.com/user-attachments/assets/0256ae9a-4ba0-41ab-9b15-4b39f2a41d78)
-![Q5](https://github.com/user-attachments/assets/47cc659e-d757-44c9-9572-b2680e768994)
-![Q4](https://github.com/user-attachments/assets/04d4d880-69ac-450b-86da-c46a39eeb4f1)
-![Q3](https://github.com/user-attachments/assets/b81d2239-6bbf-42ba-99f9-cdd784971957)
-![Q, 2](https://github.com/user-attachments/assets/89d5b479-a297-4ae4-925a-c2a74731f480)
 ![QUERY A](https://github.com/user-attachments/assets/2d80214a-fcaf-4188-823d-f010a34bcc55)
-![Q10](https://github.com/user-attachments/assets/67896aa3-d5e2-4d95-bdf0-1e7b32901ffe)
-![Q9](https://github.com/user-attachments/assets/7a1e2ef8-8f3d-4c67-aded-5ef32c527587)
+![Q, 2](https://github.com/user-attachments/assets/89d5b479-a297-4ae4-925a-c2a74731f480)
+![Q3](https://github.com/user-attachments/assets/b81d2239-6bbf-42ba-99f9-cdd784971957)
+![Q4](https://github.com/user-attachments/assets/04d4d880-69ac-450b-86da-c46a39eeb4f1)
+![Q5](https://github.com/user-attachments/assets/47cc659e-d757-44c9-9572-b2680e768994)
 ![Q6](https://github.com/user-attachments/assets/bfb90c33-b932-421f-b064-bb9249436296)
-
 ![Q7](https://github.com/user-attachments/assets/d039d842-4c3e-48dc-b5ae-e12048f8fd67)
+![Q8](https://github.com/user-attachments/assets/1e447503-66a4-4962-aeab-c11fb4ae6780)![Q6](https://github.com/user-attachments/assets/0256ae9a-4ba0-41ab-9b15-4b39f2a41d78)
+![Q9](https://github.com/user-attachments/assets/7a1e2ef8-8f3d-4c67-aded-5ef32c527587)
+![Q10](https://github.com/user-attachments/assets/67896aa3-d5e2-4d95-bdf0-1e7b32901ffe)
+
 #### Customer Data Queries
 ![customer data 1](https://github.com/user-attachments/assets/59d02bc4-1064-4d5d-83d1-c7888ad90963)!
 ![customer data 2](https://github.com/user-attachments/assets/8f7d4346-bda0-4b63-b6de-b10f86845d66)
