@@ -37,6 +37,7 @@ The Primary sourcs of Data here is Salesdata.csv and this is an open source that
  3. *Basic Power BI Knowledge*: Familiarity with Power BI visualizations, data modeling, and DAX.
   
 -Github for Portfolio Building 
+-was used to showcase my project data and demonstrate documentation of all i have done in the project on detailing my progress works using Microsoft Excel, Microsoft Structured Query Language, Power BI Data and also creating an avenue for my work to be viewed and seen by other analyst/ Developer.
 
 ### *Data cleaning and Preparation*
 ---
